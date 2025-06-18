@@ -1,0 +1,26 @@
+// src/assets/styles.scss
+.user-card {
+  transition: transform 0.2s;
+  &:hover {
+    transform: scale(1.02);
+  }
+}
+
+.v-dialog {
+  border-radius: 8px;
+}
+
+@media (max-width: 600px) {
+  .user-card {
+    margin-bottom: 16px;
+  }
+
+  .v-container {
+    padding: 8px;
+  }
+
+  .avatar {
+    width: 32px;
+    height: 32px;
+  }
+}
