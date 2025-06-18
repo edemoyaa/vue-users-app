@@ -1,5 +1,6 @@
 # Vue Users App
 
+https://vue-users-app-brm.netlify.app/
 Una SPA desarrollada en Vue 3 con Vuetify que consume la API de JSONPlaceholder para mostrar un listado de usuarios con búsqueda en tiempo real y detalles en un modal.
 
 ## Características
@@ -29,4 +30,4 @@ cd vue-users-app
 npm install
 npm run dev
 
-¡Bienvenidos a Vue Users App! Disfruta explorando este proyecto y siéntete libre de contribuir. 
+¡Bienvenidos a Vue Users App! Disfruta explorando este proyecto y siéntete libre de contribuir.
